@@ -1,0 +1,13 @@
+.headerSection {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  padding: 1rem 2rem;
+  column-gap: 1rem;
+  .header {
+    font-size: 20px;
+    margin: 0;
+    cursor: pointer;
+    height: fit-content;
+  }
+}
